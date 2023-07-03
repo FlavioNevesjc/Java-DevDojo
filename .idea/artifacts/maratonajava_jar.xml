@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="maratonajava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/maratonajava_jar</output-path>
+    <root id="archive" name="maratonajava.jar">
+      <element id="module-output" name="maratonajava" />
+    </root>
+  </artifact>
+</component>
